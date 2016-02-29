@@ -8,5 +8,5 @@
 * [Section 5000 - House Watch](section_5000_-_house_watch.md)
 * [Section 6000 - Fire Marshal and Fire Prevention Bureau](section_6000_-_fire_marshal_and_fire_prevention_bu.md)
 * Section 7000 -
-* Section 8000 - Fire Training Bureau
+* [Section 8000 - Fire Training Bureau](section_8000_-_fire_training_bureau.md)
 
